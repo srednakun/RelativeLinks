@@ -1,4 +1,4 @@
 RelativeLinks
  ## Database
-[link to datbase readme](README-Database.md)
+[link to database readme](README-Database.md)
 
