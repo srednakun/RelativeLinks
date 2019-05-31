@@ -1,4 +1,4 @@
-[back to readme] (README.md)
+[back to readme](README.md)
 ## Database Schema 
 
 *updated May 31 2019*
